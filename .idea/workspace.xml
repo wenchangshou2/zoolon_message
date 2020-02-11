@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05785473-3ecb-46db-9b88-c5b43e3f02ac" name="Default Changelist" comment="" />
+    <list default="true" id="05785473-3ecb-46db-9b88-c5b43e3f02ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +17,14 @@
     </option>
   </component>
   <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1WNBmrSsgTvi2gup9i3FxtjN0Bf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,5 +70,9 @@
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state x="2891" y="394" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1579072824332" />
+    <state x="647" y="275" width="626" height="490" key="find.popup" timestamp="1579075225486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="275" width="626" height="490" key="find.popup/0.0.1920.1040/1920.0.2560.1400@0.0.1920.1040" timestamp="1579075225486" />
   </component>
 </project>
